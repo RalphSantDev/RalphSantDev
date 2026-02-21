@@ -133,7 +133,7 @@ To become a highly skilled back-end engineer capable of designing:
 
 ## 🌎 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/raphael-santana-da-silva-10a378301)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raphaelmontanha57@gmail.com)
 
 ---
