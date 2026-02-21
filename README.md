@@ -42,9 +42,11 @@ Currently evolving toward enterprise-level development with **Java, Spring Boot 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
 
+
 ### 🗄 Databases
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -93,19 +95,21 @@ Production-ready system including:
 ## 📊 GitHub Performance
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RalphSantDev&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=RalphSantDev&theme=tokyonight" />
+  
+  <img height="170" 
+       src="https://streak-stats.demolab.com?user=RalphSantDev&theme=tokyonight&cache_seconds=3600" />
 </p>
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RalphSantDev&layout=compact&theme=tokyonight" />
-</p>
+
+
 
 ---
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/RalphSantDev/RalphSantDev/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RalphSantDev/RalphSantDev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 ---
 
@@ -131,29 +135,31 @@ To become a highly skilled back-end engineer capable of designing:
 
 ---
 
+
 ## 🌎 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/raphael-santana-da-silva-10a378301)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raphaelmontanha57@gmail.com)
+
+<p align="left">
+
+  <a href="https://github.com/RalphSantDev">
+    <img src="https://img.shields.io/badge/GitHub-Raphael%20Santana-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/santanna.zz/">
+    <img src="https://img.shields.io/badge/Instagram-@Santanna.zz-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/raphael-santana-da-silva-10a378301">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+  </a>
+
+</p>
+ 
+</p>
+
 
 ---
 
 <p align="center">
 ⚡ Building systems that are secure, structured and scalable.
 </p>
-
-
-<!--
-**RalphSantDev/RalphSantDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
