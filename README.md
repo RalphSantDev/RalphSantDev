@@ -68,7 +68,7 @@ Production-ready system including:
 
 **Stack:** Python | Flask | SQLite | Bootstrap  
 
-🔗 [View Repository](COLOQUE_SEU_LINK_AQUI)
+🔗 [View Repository](https://github.com/RalphSantDev/controle-de-combustivel)
 
 ---
 
@@ -77,18 +77,6 @@ Production-ready system including:
 • Protected routes  
 • Data validation  
 • Database integration  
-
-🔗 [View Repository](COLOQUE_SEU_LINK_AQUI)
-
----
-
-### 🗄 SQL Practice
-• Complex joins  
-• Aggregations  
-• Data filtering  
-• Practical real-world queries  
-
-🔗 [View Repository](COLOQUE_SEU_LINK_AQUI)
 
 ---
 
