@@ -19,7 +19,7 @@ Back-end developer focused on building **secure, scalable and production-ready s
 🧠 Focused on clean architecture and database modeling  
 🚀 Committed to continuous technical growth  
 
-Currently evolving toward enterprise-level development with **Java, Spring Boot and modern system design**.
+Currently improving my **Python backend** skills with focus on **data structures**, **API development**, **Flask and databases**.
 
 ---
 
