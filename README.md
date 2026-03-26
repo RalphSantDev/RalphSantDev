@@ -105,9 +105,8 @@ Production-ready system including:
 
 • Advanced Python  
 • Clean Architecture  
-• Java  
-• Spring Boot  
-• React  
+• Frameworks
+• MySQL
 • System Design  
 
 ---
@@ -133,11 +132,11 @@ To become a highly skilled back-end engineer capable of designing:
     <img src="https://img.shields.io/badge/GitHub-Raphael%20Santana-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="https://www.instagram.com/santanna.zz/">
+  <a href="https://www.instagram.com/santanadev_/">
     <img src="https://img.shields.io/badge/Instagram-@Santanna.zz-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
-  <a href="https://www.linkedin.com/in/raphael-santana-da-silva-10a378301">
+  <a href="https://www.linkedin.com/in/raphael-santanadev">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
   </a>
 
