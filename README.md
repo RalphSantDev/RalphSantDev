@@ -107,8 +107,7 @@ Production-ready system including:
 • Clean Architecture  
 • Frameworks
 • MySQL
-• System Design  
-
+• System Design 
 ---
 
 ## 🎯 Long-Term Vision
