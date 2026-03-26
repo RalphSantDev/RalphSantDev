@@ -102,12 +102,12 @@ Production-ready system including:
 ---
 
 ## 📚 Currently Learning
+- 🐍 Advanced Python
+- 🧱 Clean Architecture
+- ⚙️ Frameworks
+- 🗄️ MySQL
+- 🏗️ System Design 
 
-• Advanced Python  
-• Clean Architecture  
-• Frameworks
-• MySQL
-• System Design 
 ---
 
 ## 🎯 Long-Term Vision
